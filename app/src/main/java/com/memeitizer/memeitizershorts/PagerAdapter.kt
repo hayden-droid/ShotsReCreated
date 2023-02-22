@@ -1,4 +1,4 @@
-package com.example.youtubeshortsclone
+package com.memeitizer.memeitizershorts
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
