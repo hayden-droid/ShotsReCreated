@@ -1,4 +1,4 @@
-package com.example.youtubeshortsclone
+package com.memeitizer.memeitizershorts
 
 import android.content.Intent
 import android.os.Bundle
@@ -69,23 +69,13 @@ class MainActivity : AppCompatActivity() {
     fun getLinks() : ArrayList<String>{
         val youtube_link = ArrayList<String>()
 
-        //https://www.youtube.com/embed/1lqzxLYBpqg
-        //https://www.youtube.com/embed/hShz2mM8OqM
-        //https://www.youtube.com/embed/Tz2j1dqp5ww
-        //https://www.youtube.com/embed/ygXFDm23TtM
-        //https://www.youtube.com/embed/NjjIB1mIVHQ
-        //https://www.youtube.com/embed/2OSOr9pSyJ0
-        //https://www.youtube.com/embed/j3FQNIG_kDE
-
-        //https://youtu.be/1lqzxLYBpqg
-
-        youtube_link.add("1lqzxLYBpqg")
-        youtube_link.add("hShz2mM8OqM")
-        youtube_link.add("Tz2j1dqp5ww")
-        youtube_link.add("ygXFDm23TtM")
-        youtube_link.add("NjjIB1mIVHQ")
-        youtube_link.add("2OSOr9pSyJ0")
-        youtube_link.add("j3FQNIG_kDE")
+        youtube_link.add("Wy7TChAZ1k0")
+        youtube_link.add("kLhJzpT3mAc")
+        youtube_link.add("zCWpDlFFF5k")
+        youtube_link.add("VHuQhy3x9b8")
+        youtube_link.add("kLhJzpT3mAc")
+        youtube_link.add("zCWpDlFFF5k")
+        youtube_link.add("VHuQhy3x9b8")
 
 
         return youtube_link
