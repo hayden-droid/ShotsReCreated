@@ -1,4 +1,4 @@
-package com.example.youtubeshortsclone
+package com.memeitizer.memeitizershorts
 
 import android.os.Bundle
 import android.util.Log
