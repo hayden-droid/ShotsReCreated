@@ -1,4 +1,4 @@
-package com.example.youtubeshortsclone
+package com.memeitizer.memeitizershorts
 
 import android.content.Context
 import android.media.browse.MediaBrowser
