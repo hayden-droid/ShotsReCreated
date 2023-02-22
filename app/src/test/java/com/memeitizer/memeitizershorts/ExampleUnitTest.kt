@@ -1,4 +1,4 @@
-package com.example.youtubeshortsclone
+package com.memeitizer.memeitizershorts
 
 import org.junit.Test
 
